@@ -122,7 +122,4 @@ Clique em cada item para expandir e visualizar as imagens:
 
 Assinatura do Responsável pelo Projeto:
 
-![Assinatura](assinatura.svg)
-
-<p style="text-align:center; font-size: 10px"> ___________________________________________________________________________________________  
-<p style="text-align: center;">Alcino Roberto Soares</p>
+![Assinatura](docs/assinatura.png)
