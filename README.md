@@ -122,4 +122,6 @@ Clique em cada item para expandir e visualizar as imagens:
 
 Assinatura do Responsável pelo Projeto:
 
-![Assinatura](docs/assinatura.png)
+<p align="center">
+    <img src="docs/assinatura.png" width="400px" />
+</p>
