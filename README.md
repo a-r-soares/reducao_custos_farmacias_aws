@@ -122,7 +122,7 @@ Clique em cada item para expandir e visualizar as imagens:
 
 Assinatura do Responsável pelo Projeto:
 
-<link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
-<p style="text-align: center; font-family: 'Alex Brush', cursive; font-size: 48px;">Alcino Roberto Soares</p>
+![Assinatura](assinatura.svg)
+
 <p style="text-align:center; font-size: 10px"> ___________________________________________________________________________________________  
 <p style="text-align: center;">Alcino Roberto Soares</p>
